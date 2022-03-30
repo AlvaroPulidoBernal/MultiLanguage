@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LanguageExample/1.0.0": {
+        "runtime": {
+          "LanguageExample.dll": {}
+        },
+        "resources": {
+          "es-MX/LanguageExample.resources.dll": {
+            "locale": "es-MX"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanguageExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

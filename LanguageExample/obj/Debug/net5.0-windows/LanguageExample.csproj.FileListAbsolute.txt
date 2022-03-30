@@ -1,0 +1,46 @@
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.exe
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.deps.json
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.runtimeconfig.json
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.runtimeconfig.dev.json
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.dll
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\bin\Debug\net5.0-windows\ref\LanguageExample.dll
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.pdb
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.Form1.resources
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.csproj.GenerateResource.cache
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.AssemblyInfoInputs.cache
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.AssemblyInfo.cs
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.csproj.CoreCompileInputs.cache
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.dll
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\ref\LanguageExample.dll
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.pdb
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.genruntimeconfig.cache
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.Properties.Resources.resources
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.csproj.AssemblyReference.cache
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.Languajes.Language.resources
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\bin\Debug\net5.0-windows\es-MX\LanguageExample.resources.dll
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.Languajes.Language.es-MX.resources
+C:\Users\apulido\OneDrive - IDEAR Electrónica S. A. de C. V\Documentos\C Sharp\LanguageExample\LanguageExample\obj\Debug\net5.0-windows\es-MX\LanguageExample.resources.dll
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.exe
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.deps.json
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.runtimeconfig.json
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.runtimeconfig.dev.json
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.dll
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\bin\Debug\net5.0-windows\ref\LanguageExample.dll
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\bin\Debug\net5.0-windows\LanguageExample.pdb
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\bin\Debug\net5.0-windows\es-MX\LanguageExample.resources.dll
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.csproj.AssemblyReference.cache
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.Form1.resources
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.Languajes.Language.resources
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.Properties.Resources.resources
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.Languajes.Language.es-MX.resources
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.csproj.GenerateResource.cache
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.AssemblyInfoInputs.cache
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.AssemblyInfo.cs
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.csproj.CoreCompileInputs.cache
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\es-MX\LanguageExample.resources.dll
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.dll
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\ref\LanguageExample.dll
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.pdb
+C:\Users\apulido\Documents\Git\MultiLanguage\LanguageExample\obj\Debug\net5.0-windows\LanguageExample.genruntimeconfig.cache
